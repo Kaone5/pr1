@@ -1,4 +1,4 @@
-package ru.mirea.pr1;
+package ru.mirea.ivashchenko.pr1;
 
 public class Dog {
     private String name = " ";
